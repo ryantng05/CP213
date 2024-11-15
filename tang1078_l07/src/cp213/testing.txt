@@ -1,0 +1,27 @@
+Slider: 32
+Slider: 17
+Slider: 5
+Push Me
+Textbox: hi
+Spinner: February
+Spinner: March
+Spinner: April
+Spinner: May
+Spinner: June
+Spinner: July
+Spinner: August
+Spinner: September
+Spinner: October
+Spinner: November
+Spinner: December
+Spinner: 
+Spinner: December
+Spinner: November
+Radio Button: Star Trek
+Radio Button: Star Wars
+Checkbox: [Mustard]
+Checkbox: [Mustard, Onions]
+Checkbox: [Mustard, Onions, Ketchup]
+Checkbox: [Mustard, Onions]
+Checkbox: [Mustard]
+Push Me
